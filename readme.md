@@ -1,4 +1,4 @@
-Turbulence phenomena in neural net
+Suspiciously turbulence-ish phenomena in neural net
 ===
 
 I was looking at renormalization group stuff for [Mertonon](https://github.com/howonlee/mertonon) in preparation for implementations like... 6 months from now... when I decided I would poke at things while being weird about the grid sample.
