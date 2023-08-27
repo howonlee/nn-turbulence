@@ -1,7 +1,7 @@
 Wibbley wobbley pictures with neural nets
 ===
 
-I was looking at renormalization group stuff for [Mertonon](https://github.com/howonlee/mertonon) in preparation for implementations like... 6 months from now... when I decided I would poke at things while being weird about the latent space.
+I was looking at renormalization group stuff for [Mertonon](https://github.com/howonlee/mertonon) in preparation for implementations like... one of these days... when I decided I would poke at things while being weird about the latent space.
 
 Peeps poke at neural net for [turbulence modeling](https://pubs.aip.org/aip/pof/article-abstract/34/2/025111/2847083/Attention-enhanced-neural-network-models-for?redirectedFrom=fulltext) but that's not what we're dealing with. There is of course also a chaotician's point of view on net, diffusion in latent space, etc etc. But this way is way dumber and funner, even compared to just the ol' linear interpolation of data points through latent space, which only really has meaning in fitted net.
 
