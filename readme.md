@@ -7,8 +7,8 @@ Peeps poke at neural net for [turbulence modeling](https://pubs.aip.org/aip/pof/
 
 But who cares, look at pretty pictures. I do understand the nonlinearity is this deranged thing, switch it out if you're feeling it and see what you get
 
-![](https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig1.png)
-![](https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig2.png)
-![](https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig3.png)
+![](https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig1.png =400x400)
+![](https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig2.png =400x400)
+![](https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig3.png =400x400)
 
 I don't have, like a Kolmogorov power spectrum but I did do a halfassed FFT.
