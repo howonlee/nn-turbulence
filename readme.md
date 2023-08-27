@@ -17,3 +17,5 @@ I don't have, like a [Kolmogorov power spectrum yadda yadda 5/3 yadda yadda](htt
 
 <img src="https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig4.png" width="480" height="360">
 <img src="https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig5.png" width="480" height="360">
+
+Besicovitch dimension analysis and/or fourier analysis coming probably never, I don't really care enough
