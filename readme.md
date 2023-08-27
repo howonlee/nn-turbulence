@@ -13,4 +13,4 @@ But who cares, look at pretty pictures. I do understand the nonlinearity in the 
 <img src="https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig2.png" width="480" height="360">
 <img src="https://raw.githubusercontent.com/howonlee/nn-turbulence/master/fig3.png" width="480" height="360">
 
-I don't have, like a [Kolmogorov power spectrum yadda yadda 5/3 yadda yadda](https://spie.org/samples/FG02.pdf) something something that [poem about the fleas](https://en.wikipedia.org/wiki/Siphonaptera_(poem)) but it sure looks like turbulence to me, from the results of mark 1 eyeball.
+I don't have, like a [Kolmogorov power spectrum yadda yadda 5/3 yadda yadda](https://spie.org/samples/FG02.pdf) something something that [poem about the fleas](https://en.wikipedia.org/wiki/Siphonaptera_(poem)) but it sure looks like turbulence snapshots to me, from the results of mark 1 eyeball.
