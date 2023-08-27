@@ -1,5 +1,6 @@
 import numpy as np
 import numpy.random as npr
+import numpy.fft as np_fft
 import functools
 
 import matplotlib.pyplot as plt
@@ -22,7 +23,7 @@ def nn(act_size):
         return curr_res[10]
     return closure_nn
 
-def res_img(f, size=400, act_size=30):
+def res_img(f, size=256, act_size=30):
     inp = npr.randn(act_size)
     x = np.linspace(-5, 5, size)
     y = np.linspace(-5, 5, size)
