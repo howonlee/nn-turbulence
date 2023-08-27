@@ -1,6 +1,5 @@
 import numpy as np
 import numpy.random as npr
-import numpy.fft as np_fft
 import functools
 
 import matplotlib.pyplot as plt
