@@ -1,8 +1,12 @@
-Iterated function system on random neural net
+Turbulence phenomena in neural net
+===
 
-- sample from last activation
-- damn it looks like turbulence
- 
-- animation - time scale where its just evolution of the net?
-- velocity field from the animation... but note the time scale in the animation is pretty unintuitive
-- fourier spectra
+I was looking at renormalization group stuff for [Mertonon](https://github.com/howonlee/mertonon) in preparation for implementations like... 6 months from now... when I decided I would poke at things while being weird about the grid sample.
+
+Peeps poke at neural net for [turbulence modeling](https://pubs.aip.org/aip/pof/article-abstract/34/2/025111/2847083/Attention-enhanced-neural-network-models-for?redirectedFrom=fulltext) but that's not what we're dealing with. If you 'sweep' an unfitted neural net over 2 dimensions of its high-dimensional input space and read out from an output neuron, you get what seems to be a turbulence phenomenon. I haven't tested fitted net because I am lazy and all I wanted to do was look at the turbulent nature of the thing.
+
+But who cares, look at pretty pictures. I do understand the nonlinearity is this deranged thing, switch it out if you're feeling it and see what you get
+
+![](bleh)
+
+I don't have, like a Kolmogorov power spectrum but I did do a halfassed FFT.
