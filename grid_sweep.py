@@ -7,13 +7,16 @@ import matplotlib.pyplot as plt
 def nn(act_size):
     weights = [npr.randn(act_size, act_size) / np.sqrt(act_size) for _ in range(30)]
 
-    # def nonlinearity(res):
-    #     new_res = res.copy()
-    #     new_res[new_res < 0] *= 0.3
-    #     return new_res
-
     def nonlinearity(res):
-        return np.abs(res) / np.abs(res).sum()
+        return np.tanh(res)
+
+    # def nonlinearity(res):
+    #    new_res = res.copy()
+    #    new_res[new_res < 0] *= 0.1
+    #    return new_res
+
+    # def nonlinearity(res):
+    #     return np.abs(res) / np.abs(res).sum()
 
     def closure_nn(inp):
         curr_res = inp
